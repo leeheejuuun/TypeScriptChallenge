@@ -42,7 +42,9 @@
 하지만, 매개변수로 string을 입력하면 문자열로 인식하여 엉뚱한 결과값이 나타난다.
 
 이러한 오류를 잡기위해 타입스크립트에서는
-<img width="377" alt="스크린샷 2022-12-12 오후 9 31 06" src="https://user-images.githubusercontent.com/94230809/207045791-422da678-c175-4ddd-a348-b862f629a1ed.png"> </br>
+</br>
+<img width="377" alt="스크린샷 2022-12-12 오후 9 31 06" src="https://user-images.githubusercontent.com/94230809/207045791-422da678-c175-4ddd-a348-b862f629a1ed.png">
+</br>
 위와 같이 매개변수의 타입을 설정해준다. 타입을 설정해주면 매개변수에 설정된 타입과 다른 타입이 들어갈 경우 에러를 뱉는다.
 
 </br>
