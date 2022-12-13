@@ -58,7 +58,12 @@
 <img width="270" alt="스크린샷 2022-12-13 오후 10 50 48" src="https://user-images.githubusercontent.com/94230809/207345882-2341aaab-4577-4106-8c29-2f63cf7d3ef4.png">
 
 이때 우리는 object에 age를 추가하고 싶다.
-<img width="257" alt="스크린샷 2022-12-13 오후 10 55 13" src="https://user-images.githubusercontent.com/94230809/207348547-d3c7d85a-335c-496d-9777-1812964a2882.png"></br>하지만 작동하지 않는다. 이유는 playerMaker함수는 name을 갖는 object 를 리턴하기 때문이다.
+</br>
+
+<img width="257" alt="스크린샷 2022-12-13 오후 10 55 13" src="https://user-images.githubusercontent.com/94230809/207348547-d3c7d85a-335c-496d-9777-1812964a2882.png">
+</br>
+하지만 작동하지 않는다. 이유는 playerMaker함수는 name을 갖는 object 를 리턴하기 때문이다.
+
 </br>
 
 해결 방법은 우리가 변수와 인수에 해준것과 같은 방법으로 함수명 뒤에 아까전에 만들어둔 type을 넣어주면 된다.
