@@ -14,7 +14,10 @@
 
 이를 해결하는 방법은</br>
 <img width="153" alt="스크린샷 2022-12-13 오후 10 32 19" src="https://user-images.githubusercontent.com/94230809/207335318-192c89a1-1c87-4720-9333-1ceb95ef7e38.png"></br>
+
 ?옵션을 달아주는것이다. ?를 붙혀주면 아래와 같이 age는 number 혹은 undefined 를 갖게된다.
+</br>
+
 <img width="269" alt="스크린샷 2022-12-13 오후 10 35 22" src="https://user-images.githubusercontent.com/94230809/207336860-8fca843c-31e0-47bb-964b-1b0aa012bbea.png">
 
 </br>
