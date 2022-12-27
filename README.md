@@ -7,3 +7,15 @@
 12/13</br>
 ㄴ</br>
 Optional Parameter , type , Tuple , any , unknown , void , never
+
+12/14</br>
+ㄴ</br>
+함수의 Call Signatures , Overloading
+
+12/15</br>
+ㄴ</br>
+generic
+
+12/18</br>
+ㄴ</br>
+추상 클래스 (Abstract Class) , 추상 메소드
