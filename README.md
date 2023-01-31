@@ -1,5 +1,9 @@
 # TypeScriptChallenge
 
+### 노마드코더 타입스크립트로 블록체인 만들기 챌린지
+
+#### 22.12.12 ~ 22.12.21
+
 Day1. 12/12</br>
 [타입스크립트란 ? , 타입스크립트를 사용해야하는 이유 , 타입스크립트의 보호장치 및 컴파일 , 자바스크립트 와 타입스크립트의 에러](https://github.com/leeheejuuun/TypeScriptChallenge/blob/main/Challenge/Day1.md)
 
